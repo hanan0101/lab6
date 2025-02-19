@@ -1,0 +1,12 @@
+Warning: [DVCDT136] 
+Failed to load tests. Details are as the following:
+Load Failed: 
+Warning-[UCAPI-SNF] Shape Not Found
+  'Fsm' coverage shape is not there in the vdb 'simv.vdb'. Coverage of this 
+  metric will not be reported.
+  Please check if proper -cm option was used at compile time.
+The design 'simv.vdb' was loaded successfully.
+File '/home/Hanan_Alosimi/verification/lab6/task1/alu_test.sv' has been reloaded successfully.
+Warning: [DVSW102] 
+File '/home/Hanan_Alosimi/verification/lab6/task1/alu_test.sv' is newer than the database or the simulator executable.
+You may need to recompile the design.
